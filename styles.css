@@ -1,0 +1,47 @@
+
+body{
+    background-color: rgb(238, 240, 147);
+    font-family: 'Exo 2', sans-serif;
+
+}  
+img{
+    border-radius: 50%;
+    margin-bottom: 12px;
+    margin-right: 20px;
+    float: left;
+
+
+}
+h1{
+    font-size: 70px;
+
+}
+section{
+    font-weight: bold;
+    width: 700px;
+    padding: 40px;
+    background:  rgb(233, 235, 135);
+    margin: left;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    cursor: pointer;
+}
+fieldset{
+    
+    width: 700px;
+    padding: 40px;
+    background:  rgb(233, 235, 135);
+    margin: left;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-weight: bold;
+
+}
+p{padding: 10px;
+    background:rgb(170, 172, 97);
+    color:black;
+}
