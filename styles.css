@@ -47,11 +47,13 @@ p{padding: 10px;
 }
 
 
-@media(max-width: 952px){
+ @media(max-width: 952px){
  body{
     background-color: blueviolet;
     color: #fff;
-    width: 80%;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
 
  }
  h1{
@@ -67,6 +69,7 @@ p{padding: 10px;
     border-radius: .5rem;
     width: 90%;
     box-shadow: 5px  8px 10px  0 #000;
+    
 
  }
        
@@ -83,7 +86,7 @@ p{padding: 10px;
     border-radius:1rem;
     width: 90%;
     box-shadow: 5px  8px 10px  0 #000;
-
+    
 
  }
 
