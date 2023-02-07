@@ -45,3 +45,41 @@ p{padding: 10px;
     background:rgb(170, 172, 97);
     color:black;
 }
+
+
+@media(max-width: 540px){
+ body{
+    background-color: blueviolet;
+    color: #fff;
+ }
+ h1{
+    font-size: 2.5rem;
+    align-items: center;
+ }
+
+ section{
+    
+    background-color: rgb(70, 29, 109);
+    color: #fff;
+    border: 3px double #fff;
+    border-radius: .5rem;
+    width: 80%;
+    box-shadow: 5px  8px 10px  0 #000;
+
+ }
+       
+ p{
+    color: #fff;
+    background-color: rgb(71, 21, 117, 0.0);
+  
+ }
+    
+ fieldset{
+    background-color: rgb(70, 29, 109);
+    color: #fff;
+    border: 3px double #fff;
+    border-radius:1rem;
+    width: 80%;
+    box-shadow: 5px  8px 10px  0 #000;
+ }
+ }
